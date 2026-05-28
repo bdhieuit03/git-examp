@@ -1,1 +1,1 @@
-"API_URL=production.com" 
+"API_URL=staging.com" 
